@@ -26,3 +26,7 @@
 def fun():
  print('Hai')
 ~~~
+
+table1 | table2
+-------|--------
+table body1 | table body2
